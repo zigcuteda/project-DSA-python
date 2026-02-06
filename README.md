@@ -61,7 +61,4 @@ This project implements the Connect 4 game using Python and the Tkinter library,
 
 ---
 
-## How to Run
 
-```bash
-python connect4.py
